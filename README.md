@@ -35,6 +35,14 @@ Looking for guest posting, link building, or press release distribution?
 **Business Inquiries:** Visit our website to discuss your campaign requirements and available options.
 
 We welcome genuine business inquiries and long-term partnerships.
+
+## Explore Our Resources
+
+- [SEO Resources](https://github.com/TrustLinkSEO/seo-resources)
+- [Guest Posting Guidelines](https://github.com/TrustLinkSEO/guest-posting-guidelines)
+- [Press Release Resources](https://github.com/TrustLinkSEO/press-release-resources)
+
+Visit our website: https://trustlinkseo.com/
 <!--
 **TrustLinkSEO/TrustLinkSEO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
